@@ -22,5 +22,3 @@ The printed circuit board (PCB) is designed to cater to the specific needs of th
 
 ## Contact
 If you have any questions or suggestions, feel free to email feodosiy2404@gmail.com
-
-# gffkwfb
