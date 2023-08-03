@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=[ProjectName] MCU.SchDoc|SheetNumber=000
+Record=NoMainPathDocument|SourceDocument=[ProjectName] MCU.SchDoc|FileName=[ProjectName] PWR.SchDoc|SheetNumber=000

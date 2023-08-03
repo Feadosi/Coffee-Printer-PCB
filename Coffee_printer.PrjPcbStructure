@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Coffee_printer MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Coffee_printer MCU.SchDoc|FileName=Coffee_printer PWR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Coffee_printer MCU.SchDoc|FileName=Drivers_TMC2209.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Coffee_printer MCU.SchDoc|FileName=Pump.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Coffee_printer MCU.SchDoc|FileName=USB-UART.SchDoc|SheetNumber=3
